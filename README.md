@@ -14,4 +14,3 @@ As technology seeps into every field in the world and the fear of Artificial Int
 
 Future development of this project could be the further improvement of this model. Ranging from more training to improve accuracy or the introduction of more input variables to increase versatility. Still, as Smokey the Bear said, "Only you can stop forest fires".
 
-Build with pandas, seaborn, python
